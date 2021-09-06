@@ -1,1 +1,1 @@
-# Python shell  scripting fucking python codes.
+# Python shell scripting , python codes and Algorithims.
